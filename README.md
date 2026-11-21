@@ -1,4 +1,11 @@
-# attain
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/wordmark-dark.svg">
+    <img src="assets/wordmark-light.svg" width="420" alt="://attainable">
+  </picture>
+</p>
+
+# attain, the ://attainable CLI
 
 The [://attainable](https://attainable.software) CLI: humans collaborate and agents build. This repository holds its
 releases for macOS, Linux and Windows.
@@ -27,3 +34,10 @@ attain mcp                # the MCP tools over stdio, e.g. claude mcp add attain
 ```
 
 `attain --help` lists every command.
+
+## Links
+
+- Documentation: https://attainable.software/docs#cli
+- MCP server for AI apps: [attainable-engineer/attainable-mcp](https://github.com/attainable-engineer/attainable-mcp)
+- Privacy policy: https://attainable.software/privacy
+- Terms of Service: https://attainable.software/terms
